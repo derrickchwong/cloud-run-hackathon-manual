@@ -1,11 +1,11 @@
-# Green Tomato Cloud Run Hackathon
+# Cloud Run Hackathon
 
 
 ## Introduction
 
 
 
-**Last Updated:** 2021-10-02 11:15
+**Last Updated:** 2022-03-03 14:14
 
 Ever been in a water fight where you move around and playfully spray others with water? If not, try it someday! But now instead of risking getting actually wet, you can build a small, network accessible service (a microservice) that will take part in an epic water fight against other microservices.
 
