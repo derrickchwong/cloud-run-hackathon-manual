@@ -1,7 +1,7 @@
 schema_version: 1
 default_locale: en
-title: Green Tomato Cloud Run Hackaton
-description: Green Tomato Cloud Run Hackaton
+title: Cloud Run Hackaton
+description: Cloud Run Hackaton
 instruction:
   type: md
   locales:
