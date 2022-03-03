@@ -1,0 +1,33 @@
+schema_version: 1
+default_locale: en
+title: Green Tomato Cloud Run Hackaton
+description: Green Tomato Cloud Run Hackaton
+instruction:
+  type: md
+  locales:
+    en: en.md
+duration: 360
+max_duration: 360
+credits: 0
+level: introductory
+tags: 
+product_tags: 
+role_tags: 
+domain_tags: 
+tagline: 
+resources: []
+environment_resources:
+- type: gcp_user
+  id: user_0
+  permissions:
+  - project: project_0
+    roles:
+    - roles/appengine.appAdmin
+    - roles/bigquery.admin
+    - roles/container.clusterAdmin
+    - roles/editor
+    - roles/owner
+    - roles/run.admin
+- type: gcp_project
+  id: project_0
+  fleet: gcpd
